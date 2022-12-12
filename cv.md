@@ -13,8 +13,6 @@
 2. CSS
 3. Git
 
-## O my God the office is freafing best
-
 ```
 <style>
 .stretch {
@@ -48,7 +46,7 @@ padding-right: 36px;
 ---
 ## Education 
 First year student of Film and Television University (Saint-Petersburg).
-###added some bio
+
 ## Languages
 1. Russian (naitive)
 2. English (upper-intermediate)
