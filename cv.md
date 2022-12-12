@@ -8,6 +8,7 @@
 ---
 ## I'm a first year student of Film and Television University (Saint-Petersburg). I do not have any job or any job expirience, but I'm really interested in design, front-end development, cinematography and history. I've tried to learn front-end several times inconsistently, I think that RS School can help me with discipline and community feeling.
 ---
+
 ### Skills
 1. HTML
 2. CSS
